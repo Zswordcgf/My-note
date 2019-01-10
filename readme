@@ -1,0 +1,1 @@
+Vue中props里的方法和校验无法引用vue实例中的data,computed等属性，因为他在组件实例创建之前进行验证。
